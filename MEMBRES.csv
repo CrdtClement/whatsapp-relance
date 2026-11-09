@@ -1,0 +1,4 @@
+NOM,PRENOM,MAIL,NUMERO,FILIERE,FISA
+MACHIN,Bidule,bidule.machin@exemple.fr,612345678,SN,non
+DUPONT,Alice,alice.dupont@exemple.fr,+33 6 98 76 54 32,SN,oui
+MARTIN,Lucas,lucas.martin@exemple.fr,07 11 22 33 44,3EA,non
