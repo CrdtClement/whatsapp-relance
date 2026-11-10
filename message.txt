@@ -1,0 +1,6 @@
+Hi {first_name} 👋
+
+Quick message about the next meeting ✨
+Could you confirm if you're coming? 🙏
+
+Thanks! ❤️
