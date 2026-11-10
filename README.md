@@ -27,9 +27,6 @@ I'm This script turns your contact file into pre-filled `wa.me` / `whatsapp://` 
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
 # 1. Put your contact file in the folder (see format below)
 # 2. Write your message in message.txt
 # 3. Check it:
@@ -50,7 +47,7 @@ A CSV or TSV file (any extension, `.txt` included) with these columns, in any or
 
 French headers work too: `NOM`, `PRENOM`, `MAIL`, `NUMERO`, `FILIERE`.
 
-Only `FIRST_NAME` and `PHONE` are required. The other columns feed the message fields and the filters. See [`members_example.csv`](members_example.csv).
+Only `FIRST_NAME` and `PHONE` are required. The other columns feed the message fields and the filters. See [`MEMBRES.csv`](MEMBRES.csv).
 
 > An Excel export as "Text (tab delimited)" or "CSV UTF-8" works directly. A classic Windows "CSV" export (cp1252) is also handled, so accents survive.
 
